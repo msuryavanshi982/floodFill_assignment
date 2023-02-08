@@ -1,0 +1,32 @@
+h1,
+h2 {
+  font-family: Lato;
+}
+
+.color-options {
+  display: flex;
+}
+
+.color-cell {
+  display: inline-block;
+  height: 50px;
+  width: 50px;
+  margin: 10px;
+}
+
+.color-Play-cell {
+  display: inline-block;
+  height: 50px;
+  width: 50px;
+  margin: 5px;
+  border: 1px solid black;
+}
+
+.sub-play {
+  display: flex;
+}
+
+.play-ground {
+  display: flex;
+  flex-direction: column;
+}
